@@ -12,9 +12,11 @@ Permite agregar amigos a una lista y sortear uno al azar como *amigo secreto*.
 
 ---
 
+
 ## 📷 Vista previa del proyecto
 
 ![Captura del proyecto](assets/captura.png)
+
 
 ---
 
