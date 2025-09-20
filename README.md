@@ -15,8 +15,9 @@ Permite agregar amigos a una lista y sortear uno al azar como *amigo secreto*.
 
 ## 📷 Vista previa del proyecto
 
-![Captura del proyecto](assets/captura.png)
 
+
+<img width="779" height="512" alt="Captura de pantalla 2025-09-20 112723" src="https://github.com/user-attachments/assets/47e33810-7cc2-430a-aa36-36f80bf0bb8c" />
 
 ---
 
